@@ -21,14 +21,14 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-      font-family:'Open Sans', sans-serif;
+      font-family:'Open Sans Condensed', sans-serif;
     font-weight: 500;
    line-height:40px;
    
 }
 
 h1 {
-    color:#11B674;
+    color:#0066B3;
     font-weight: 700;
 }
 .text-center {
@@ -77,7 +77,7 @@ p {
 }
 
 .color-blue {
-    color:#0052FF;
+    color:#0066B3;
 }
 .color-brown {
     color:#EB8F2D;
