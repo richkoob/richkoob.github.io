@@ -21,7 +21,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-      font-family:'Open Sans Condensed', sans-serif;
+      font-family:'Open Sans', sans-serif;
     font-weight: 500;
    line-height:40px;
    
@@ -96,7 +96,7 @@ p {
 	padding-top:20px;
 	text-align:center;
 	background-position: center center;
-	min-height: 700px;
+	min-height: 375px;
 	width: 100%;	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
